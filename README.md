@@ -1,5 +1,7 @@
 # Use Case: Multi-Model SaaS Product
 
+**YouTube walkthrough:** [Multi Model Saas Product — System Design #Shorts](https://youtu.be/wlNrl5HdXDY)
+
 **Design doc:** [docs/DESIGN.md](./docs/DESIGN.md) — architecture, patterns, and why.
 
 
@@ -49,6 +51,9 @@ Shared: auth, conversations ([10](../10-global-realtime-product-surface.md)), sa
 
 
 ## Design walkthrough (opens on GitHub)
+
+> **Watch on YouTube:** [Multi Model Saas Product — System Design #Shorts](https://youtu.be/wlNrl5HdXDY)
+
 
 ![Design overview](docs/video/design-overview.gif)
 
