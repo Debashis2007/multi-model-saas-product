@@ -1,7 +1,7 @@
 # Design: Multi-Model SaaS Product
 
 **Project:** `multi-model-saas-product`  
-**Parent system design:** [01 — LLM Inference Serving](../01-llm-inference-serving.md) · [09 — Multi-Model Routing / API Platform](../09-multi-model-routing-api-platform.md)
+**Parent system design:** [01 — LLM Inference Serving](https://github.com/Debashis2007/multi-model-saas-product/blob/main/01-llm-inference-serving.md) · [09 — Multi-Model Routing / API Platform](https://github.com/Debashis2007/multi-model-saas-product/blob/main/09-multi-model-routing-api-platform.md)
 
 ## 1. What this POC demonstrates
 

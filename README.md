@@ -7,8 +7,8 @@
 **Design doc:** [docs/DESIGN.md](./docs/DESIGN.md) — architecture, patterns, and why.
 
 
-**Parent system design:** [01 — LLM Inference Serving](./01-llm-inference-serving.md)  
-**Also references:** [09 — Multi-model routing / API platform](./09-multi-model-routing-api-platform.md)
+**Parent system design:** [01 — LLM Inference Serving](https://github.com/Debashis2007/multi-model-saas-product/blob/main/01-llm-inference-serving.md)  
+**Also references:** [09 — Multi-model routing / API platform](https://github.com/Debashis2007/multi-model-saas-product/blob/main/09-multi-model-routing-api-platform.md)
 
 ## Users & problem
 
@@ -32,7 +32,7 @@ Product BFF → Router (tier / auto)
 ```
 
 Reuse **01** per fleet (batching, KV, autoscaling).  
-Shared: auth, conversations ([10](./10-global-realtime-product-surface.md)), safety ([06](./06-safety-moderation-pipeline.md)), streaming ([02](./02-streaming-token-delivery.md)).
+Shared: auth, conversations ([10](https://github.com/Debashis2007/multi-model-saas-product/blob/main/10-global-realtime-product-surface.md)), safety ([06](https://github.com/Debashis2007/multi-model-saas-product/blob/main/06-safety-moderation-pipeline.md)), streaming ([02](https://github.com/Debashis2007/multi-model-saas-product/blob/main/02-streaming-token-delivery.md)).
 
 ## Specializations
 
